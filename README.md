@@ -1,6 +1,6 @@
 # Hi there, I'm Mehmet Can Vardar 👋
 
-Welcome to my GitHub profile! I'm a software developer at **Meown**, passionate about building modern and scalable applications. Below you can find information about my skills, projects, and how to reach out to me.
+Welcome to my GitHub profile! I'm a software crafter at **Meown**, passionate about building modern and scalable applications. Below you can find information about my skills, projects, and how to reach out to me.
 
 ## 👨‍💻 About Me
 
