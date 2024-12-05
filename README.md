@@ -15,8 +15,8 @@ Welcome to my GitHub profile! I'm a software crafter at **Meown**, passionate ab
 - 🌐 **ReactJS** | **React Native** | **Next.js** | **Tailwind CSS** | **Nativewind**
 
 ### Backend
-- 🔧 **NestJS**
-- 💾 **Prisma** | **PostgreSQL** | **MongoDB**
+- 🔧 **NestJS** | **Laravel**
+- 💾 **Prisma** | **PostgreSQL** | **MongoDB** || **MySQL**
 - 🛠️ **REST API**
 
 ### Dev Tools
