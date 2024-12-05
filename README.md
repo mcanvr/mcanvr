@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a software crafter at **Meown**, passionate ab
 - 🛠️ **REST API**
 
 ### Dev Tools
-- ⚡ **Git** | **GitHub**
+- ⚡ **Git** | **GitHub** | **BitBucket**
 - 💻 **VSCode**
 - 🔨 **Jest** | **ESLint** | **Prettier**
 
