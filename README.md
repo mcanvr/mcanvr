@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a software developer at **Meown**, passionate 
 ## 🛠️ Technologies & Tools
 
 ### Frontend
-- 🌐 **ReactJS** | **React Native** | **Next.js** | **Tailwind CSS**
+- 🌐 **ReactJS** | **React Native** | **Next.js** | **Tailwind CSS** | **Nativewind**
 
 ### Backend
 - 🔧 **NestJS**
