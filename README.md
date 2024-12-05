@@ -1,13 +1,13 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Mehmet Can Vardar 👋
 
 Welcome to my GitHub profile! I'm a software developer at **Meown**, passionate about building modern and scalable applications. Below you can find information about my skills, projects, and how to reach out to me.
 
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently working at **Meown** as a Software Developer
-- 🌱 I’m currently learning **Cloud Technologies** and exploring **TypeScript**-based frameworks
+- 🌱 I’m currently learning **NestJS**
 - 💬 Ask me about **ReactJS**, **React Native**, **NestJS**, **Tailwind CSS**, and **Backend Development**
-- 📫 How to reach me: [Your Email] | [LinkedIn Profile] | [Twitter Handle]
+- 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/mehmet-can-vardar-6aa06b179/) | [X Handle](https://x.com/mcannvrr)
 
 ## 🛠️ Technologies & Tools
 
@@ -26,15 +26,14 @@ Welcome to my GitHub profile! I'm a software developer at **Meown**, passionate 
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcanvr&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
 
 ## 🤝 Connect With Me
 
 Feel free to connect with me on social platforms:
 
-- [LinkedIn](your-linkedin-profile)
-- [Twitter](your-twitter-handle)
-- [Personal Blog](your-personal-blog-url)
+- [LinkedIn](https://www.linkedin.com/in/mehmet-can-vardar-6aa06b179/)
+- [X(Twitter)](https://x.com/mcannvrr)
 
 ---
 
