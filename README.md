@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a software developer at **Meown**, passionate 
 
 - 🔭 I’m currently working at **Meown** as a Software Developer
 - 🌱 I’m currently learning **NestJS**
-- 💬 Ask me about **ReactJS**, **React Native**, **NestJS**, **Tailwind CSS**, and **Backend Development**
+- 💬 Ask me about **ReactJS**, **React Native**, **NestJS**, **Tailwind CSS**
 - 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/mehmet-can-vardar-6aa06b179/) | [X Handle](https://x.com/mcannvrr)
 
 ## 🛠️ Technologies & Tools
