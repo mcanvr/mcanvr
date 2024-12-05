@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a software crafter at **Meown**, passionate ab
 
 ### Backend
 - 🔧 **NestJS** | **Laravel**
-- 💾 **Prisma** | **PostgreSQL** | **MongoDB** || **MySQL**
+- 💾 **Prisma** | **PostgreSQL** | **MongoDB** | **MySQL**
 - 🛠️ **REST API**
 
 ### Dev Tools
