@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a React Native Developer, passionate about bui
 
 - 🌱 I’m currently learning **NestJS**
 - 💬 Ask me about **ReactJS**, **React Native**, **NestJS**, **Tailwind CSS**
-- 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/mehmet-can-vardar-6aa06b179/) | [X Handle](https://x.com/mcannvrr)
+- 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/mehmet-can-vardar-6aa06b179/)
 
 ## 🛠️ Technologies & Tools
 
@@ -32,7 +32,6 @@ Welcome to my GitHub profile! I'm a React Native Developer, passionate about bui
 Feel free to connect with me on social platforms:
 
 - [LinkedIn](https://www.linkedin.com/in/mehmet-can-vardar-6aa06b179/)
-- [X(Twitter)](https://x.com/mcannvrr)
 
 ---
 
